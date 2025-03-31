@@ -13,7 +13,7 @@
   * <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
   * <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python">
 
-<img align="right" src="https://media1.tenor.com/m/EibUYbFNz1cAAAAd/lythero-silver-campaign.gif" alt="sanic_lythero_killcommand" width="250px">
+<img align="right" src="https://media1.tenor.com/m/EibUYbFNz1cAAAAd/lythero-silver-campaign.gif" alt="sanic_lythero_killcommand" width="400px">
     
 😵‍💫 Next Langs:
 
