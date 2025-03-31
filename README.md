@@ -12,6 +12,8 @@
   * <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3">
   * <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
   * <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python">
+
+<img align="right" src="https://media1.tenor.com/m/EibUYbFNz1cAAAAd/lythero-silver-campaign.gif" alt="sanic_lythero_killcommand" width="250px">
     
 😵‍💫 Next Langs:
 
@@ -29,8 +31,6 @@
 <p>Huge Sonic Fan <img src="https://i.gifer.com/5Btx.gif" alt="sonic_emoji" width="20px">
 
 📧 Contact me: <a href="itsnotallexmachado@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a></p>
-
-<img align="right" src="https://media1.tenor.com/m/EibUYbFNz1cAAAAd/lythero-silver-campaign.gif" alt="sanic_lythero_killcommand" width="250px">
 
 <h1>Find Me:</h1>
 <div>
