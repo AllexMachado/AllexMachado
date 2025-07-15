@@ -28,7 +28,6 @@
 <div>
     <a href="https://www.instagram.com/allexmmua/ " target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="insta_badge"></a>
     <a href="https://www.linkedin.com/in/allex-machado-of-moura-396513357/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://www.reddit.com/user/AllexMachado/ " target="_blank"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt="reddit_badge"></a>
     <a href="https://wa.me/qr/TXPG4UQXK4VUJ1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp_badge"></a>
 </div>
 
