@@ -1,4 +1,4 @@
-<h1 style="text-align: center;"><img src="https://i.gifer.com/JTr.gif" alt="heart_blue" width="30px"> Hallo! My name is Allex Machado <img src="https://i.gifer.com/BPmy.gif" alt="blue_plants" width="37px"></h1>
+<h1 style="text-align: center;"><img src="https://i.gifer.com/JTr.gif" alt="heart_blue" width="30px"> Hello! My name is Allex Machado <img src="https://i.gifer.com/BPmy.gif" alt="blue_plants" width="37px"></h1>
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AllexMachado&show_icons=true&theme=gotham) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllexMachado&theme=gotham&layout=compact)
 
@@ -19,15 +19,6 @@
   * <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="php">
   * <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript">
 </p>
-
-📧 Contact me: <a href="itsnotallexmachado@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a></p>
-
-<h1>Find Me:</h1>
-<div>
-    <a href="https://www.instagram.com/allexmmua/ " target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="insta_badge"></a>
-    <a href="https://www.linkedin.com/in/allex-machado-of-moura-396513357/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://wa.me/qr/TXPG4UQXK4VUJ1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp_badge"></a>
-</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AllexMachado/AllexMachado/output/github-contribution-grid-snake-dark.svg">
