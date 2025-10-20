@@ -1,7 +1,5 @@
 <h1 style="text-align: center;"><img src="https://i.gifer.com/JTr.gif" alt="heart_blue" width="30px"> Hallo! My name is Allex Machado <img src="https://i.gifer.com/BPmy.gif" alt="blue_plants" width="37px"></h1>
 
-<img src="https://i.pinimg.com/736x/2e/4d/d3/2e4dd3c29ea111c2345ae5add6903a87.jpg" alt="banner" align="center" style="height:max-content;">
-
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AllexMachado&show_icons=true&theme=gotham) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllexMachado&theme=gotham&layout=compact)
 
 <h2 style="text-decoration-thickness: bolder;">About Me:</h2>
