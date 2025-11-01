@@ -1,6 +1,6 @@
 <h1 style="text-align: center;"><img src="https://i.gifer.com/JTr.gif" alt="heart_blue" width="30px"> Hello! My name is Allex Machado <img src="https://i.gifer.com/BPmy.gif" alt="blue_plants" width="37px"></h1>
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AllexMachado&show_icons=true&theme=gotham) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?usernameAllexMachado=&theme=gotham&layout=compact)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AllexMachado&show_icons=true&theme=gotham) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllexMachado&theme=gotham&layout=compact)
 
 <h2 style="text-decoration-thickness: bolder;">About Me:</h2>
 <p>Software Engineering Studend and Full Stack Developer! I hope to focus my studies into Cybersecurity, so one day I can be a good professional in this area :)
