@@ -16,7 +16,7 @@
 
 ###
 
-<h2 align="left">I have some knowledge in:</h2>
+<h2 align="left">Languages:</h2>
 
 ###
 
