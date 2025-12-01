@@ -2,7 +2,9 @@
 
 ###
 
-<p align="center">Software Engineering student | Python Full Stack Developer student | Cybersecurity student</p>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=sans-serif&pause=1000&color=788559&center=true&vCenter=true&width=435&lines=Software+Engineering+student;Python+Full+Stack+Developer+student;Cybersecurity+student" alt="Typing SVG" /></a>
+</div>
 
 ###
 
@@ -41,7 +43,7 @@
 ###
 
 <div align="center" display="flex">
-  <img src="https://github-readme-stats.vercel.app/api?username=AllexMachado&theme=merko&show_icons=true&hide_border=true&count_private=false" alt="AllexMachado's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllexMachado&theme=merko&show_icons=true&hide_border=true&layout=compact" alt="AllexMachado's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=AllexMachado&theme=merko&hide_border=true" alt="AllexMachado's GitHub Stats" />
+  <img size="400" src="https://allexmachado-readme-stats.vercel.app/api?username=AllexMachado&theme=merko&show_icons=true&hide_border=false&count_private=false" alt="AllexMachado's GitHub Stats" />
+  <img width="355" src="https://allexmachado-readme-stats.vercel.app/api/top-langs/?username=AllexMachado&theme=merko&show_icons=true&hide_border=false&layout=compact" alt="AllexMachado's GitHub Stats" />
+  <img size="400" src="https://streak-stats.demolab.com?user=AllexMachado&theme=merko&hide_border=false" alt="AllexMachado's GitHub Stats" />
 </div>
