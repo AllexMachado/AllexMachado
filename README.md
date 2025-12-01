@@ -42,6 +42,10 @@
 
 ###
 
+<h2 align="left">GitStats: </h2>
+
+###
+
 <div align="center" display="flex">
   <img size="400" src="https://allexmachado-readme-stats.vercel.app/api?username=AllexMachado&theme=merko&show_icons=true&hide_border=false&count_private=false" alt="AllexMachado's GitHub Stats" />
   <img width="355" src="https://allexmachado-readme-stats.vercel.app/api/top-langs/?username=AllexMachado&theme=merko&show_icons=true&hide_border=false&layout=compact" alt="AllexMachado's GitHub Stats" />
