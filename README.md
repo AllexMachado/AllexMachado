@@ -17,7 +17,7 @@
 ###
 
 <details>
-  <summary> <h2 align="left">Languages:</h2> </summary>
+  <summary> <h2>Languages:</h2> </summary>
   <div align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
       <img width="12" />
@@ -30,20 +30,23 @@
   </div>
 </details>
 
+<!--
 <details>
-  <summary> <h2 align="left">GitStats: </h2> </summary>
+  <summary> <h2>Main Projects:</h2> </summary>
+</details>
+-->
+
+<details>
+  <summary> <h2 align="center">GitStats: </h2> </summary>
   <div align="center" display="flex">
     <img size="400" src="https://allexmachado-readme-stats.vercel.app/api?username=AllexMachado&theme=merko&show_icons=true&hide_border=false&count_private=false" alt="AllexMachado's GitHub Stats" />
     <img width="355" src="https://allexmachado-readme-stats.vercel.app/api/top-langs/?username=AllexMachado&theme=merko&show_icons=true&hide_border=false&layout=compact" alt="AllexMachado's GitHub Stats" />
-    <img size="400" src="https://streak-stats.demolab.com?user=AllexMachado&theme=merko&hide_border=false" alt="AllexMachado's GitHub Stats" />
+    <!-- GitHub Streak Stats >>> <img size="400" src="https://streak-stats.demolab.com?user=AllexMachado&theme=merko&hide_border=false" alt="AllexMachado's GitHub Stats" /> -->
   </div>
 </details>
 
-<details>
-  <summary> <h2>Extra...</h2> </summary>
-  <picture align="center">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AllexMachado/AllexMachado/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AllexMachado/AllexMachado/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="htatps://raw.githubusercontent.com/AllexMachado/AllexMachado/output/github-contribution-grid-snake.svg">
-  </picture>
-</details>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AllexMachado/AllexMachado/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AllexMachado/AllexMachado/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="htatps://raw.githubusercontent.com/AllexMachado/AllexMachado/output/github-contribution-grid-snake.svg">
+</picture>
