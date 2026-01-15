@@ -1,23 +1,23 @@
-<h1 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47d/512.webp" alt="heart_blue" width="30px"> Hello, I'm Allex Machado <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.webp" alt="blue_plants" width="37px"></h1>
+<h1 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47d/512.webp" alt="heart_blue" width="30px"> Olá, eu sou o Allex Machado <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.webp" alt="blue_plants" width="37px"></h1>
 
 ###
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=sans-serif&pause=1000&color=788559&center=true&vCenter=true&width=435&lines=Software+Engineering+student;Python+Full+Stack+Developer+student;Cybersecurity+student" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5C7B2E&width=435&lines=Estudante+de+Engenharia+de+Software;Estudante+de+Desenvolvimento+Full+Stack+Python;Estudante+de+Ciberseguran%C3%A7a" alt="Typing SVG" /></a>
 </div>
 
 ###
 
-<h2 align="left">About me: </h2>
+<h2 align="left">Sobre Mim: </h2>
 
 ###
 
-<p align="left">I'm just starting out in the technology field, and I intend to specialize in Cybersecurity and IT Security in general.<br><br>Since I'm still a college student and just starting out, I'm likely to make many mistakes, which is common. I want to be able to do many projects and collaborate extensively with others; the more practice and experience, the better!<br><br>My DMs are always open for tips, help, and even mentorship – all are welcome! Don't hesitate to criticize my works, because that's the only way I can learn more and more! ^^ <br><br>I plan to be more active here on GitHub with more contributions and more Open Source projects help, the more I learn. Since for now, I'm still learning about APIs and OOP with JavaScript and Python focuses. </p>
+<p align="left">Estou começando agora na área de tecnologia e pretendo me especializar em Segurança Cibernética e Segurança de TI em geral.<br><br>Como ainda sou estudante universitário e estou começando, é provável que eu cometa muitos erros, o que é completamente normal, claro. Quero poder realizar muitos projetos e colaborar bastante com outras pessoas; quanto mais prática e experiência, melhor!<br><br>Minhas DMs estão sempre abertas para dicas, ajuda e até mentoria(se eu for digno kkk) – todos são bem-vindos! Não hesite em criticar meus trabalhos, pois essa é a única maneira de eu aprender cada vez mais! ^^<br><br>Pretendo ser mais ativo aqui no GitHub, contribuindo com mais projetos de código aberto, conforme eu for aprendendo. Por enquanto, ainda estou aprendendo sobre APIs e Programação Orientada a Objetos (POO), com foco em JavaScript e Python.</p>
 
 ###
 
 <details>
-  <summary> <h2>Languages:</h2> </summary>
+  <summary> <h2>Linguagens:</h2> </summary>
   <div align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
       <img width="12" />
